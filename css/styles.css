@@ -1,0 +1,43 @@
+* {
+    background-color:whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#container {
+    padding: 20px 60px;
+    padding-bottom: 125px;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: auto;
+}
+
+#subtitle {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#image {
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+.recipe {
+    border-bottom: 1px solid black;
+    margin-bottom: 110px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: large;
+    margin-left: 440px;
+}
+
+.description {
+    font-size: small;
+    font-weight: 400;
+    margin-top: 20px;
+}
